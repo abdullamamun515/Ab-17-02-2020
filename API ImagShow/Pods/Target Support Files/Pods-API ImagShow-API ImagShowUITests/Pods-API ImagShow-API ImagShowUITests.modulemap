@@ -1,0 +1,6 @@
+framework module Pods_API_ImagShow_API_ImagShowUITests {
+  umbrella header "Pods-API ImagShow-API ImagShowUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
